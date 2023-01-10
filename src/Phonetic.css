@@ -21,3 +21,8 @@
   border-radius: 50px;
   text-decoration: none;
 }
+
+.Phonetic a:hover{
+  color: white;
+  background: #6C63FF;
+}
