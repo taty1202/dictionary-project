@@ -4,10 +4,10 @@
   margin: 0 auto;
 }
 
-.App .logo {
-  max-width: 200px;
+.App-logo {
+  max-width: 150px;
   display: block;
-  margin: 30px auto;
+  margin: 10px auto;
 }
 
 .App footer {
@@ -17,7 +17,7 @@
 }
 
 .App a {
-  color: #6c63ff;
+  color: #6C63FF;
 }
 
 

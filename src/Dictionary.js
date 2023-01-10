@@ -2,6 +2,7 @@ import React, { useState } from "react";
 import axios from "axios";
 import Result from "./Result";
 import Photos from "./Photos";
+
 import "./Dictionary.css";
 
 export default function Dictionary(props) {
@@ -48,10 +49,10 @@ export default function Dictionary(props) {
       <div className="Dictionary">
         <section>
           <form onSubmit={handleSubmit}>
-            <label>What word do you want to look up?</label>
+            <label>Search for a word</label>
             <input
               type="search"
-              placeholder="Search for a word"
+              placeholder="Search..."
               defaultValue={props.defaultKeyword}
               autoFocus={true}
               className="form-control search-input"

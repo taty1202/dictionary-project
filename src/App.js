@@ -9,11 +9,9 @@ export default function App() {
         <header className="App-header">
           <img src={logo} className="App-logo img-fluid" alt="logo" />
         </header>
-        <main>
-          <Dictionary />
-        </main>
+        <Dictionary defaultKeyword="coding" />
         <footer className="App-footer">
-          <small>Coded by Tatyana Araya 👩🏽‍💻 and is open-sourced on <a href="https://github.com/taty1202/dictionary-project" target="_blank" rel="noreferrer">Github</a></small>
+          <small>Coded by <a href="https://tatyana-araya-webpage.netlify.app/" target="_blank" rel="noreferrer">Tatyana Araya</a> 👩🏽‍💻 and is open-sourced on <a href="https://github.com/taty1202/dictionary-project" target="_blank" rel="noreferrer">Github</a></small>
         </footer>
       </div>
     </div>
