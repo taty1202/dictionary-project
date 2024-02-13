@@ -11,7 +11,7 @@ export default function App() {
         </header>
         <Dictionary defaultKeyword="code" />
         <footer className="App-footer">
-          <small>Coded by <a href="https://tatyana-araya-webpage.netlify.app/" target="_blank" rel="noreferrer">Tatyana Araya</a> 👩🏽‍💻 and is open-sourced on <a href="https://github.com/taty1202/dictionary-project" target="_blank" rel="noreferrer">Github</a></small>
+          <small>Coded by <a href="https://tatyana-araya-webpage.netlify.app/" target="_blank" rel="noreferrer">Tatyana Venanzi</a> 👩🏽‍💻 and is open-sourced on <a href="https://github.com/taty1202/dictionary-project" target="_blank" rel="noreferrer">Github</a></small>
         </footer>
       </div>
     </div>
